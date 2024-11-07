@@ -1,0 +1,14 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+#main {
+  width: 80%;
+  margin: 1em auto;
+}
+
+button {
+  border: 1px solid #000;
+  padding: 0.5rem 1rem;
+  border-radius: 3px;
+}
